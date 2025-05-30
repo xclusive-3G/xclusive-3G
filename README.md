@@ -9,7 +9,7 @@ I’m a Frontend Developer & Cybersecurity Enthusiast
 - 🔭 I’m currently working on a JavaScript vulnerability scanner  
 - 🌱 I’m learning advanced taint analysis and symbolic execution  
 - 💬 Ask me about React, TypeScript, Node.js, and Web Security  
-- 📫 How to reach me: https://www.linkedin.com/in/ayomide-akinrata/
+- 📫 How to reach me: https://www.linkedin.com/in/ayomide-akinrata
 
 ## 🚀 Tech Stack
 ![React](https://sekani-portfolio.netlify.app/))
