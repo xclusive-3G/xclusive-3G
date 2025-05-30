@@ -3,14 +3,20 @@
 <!--
 **xclusive-3G/xclusive-3G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 👋 Hi, I’m Ayomide.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I’m a Frontend Developer & Cybersecurity Enthusiast  
+- 🔭 I’m currently working on a JavaScript vulnerability scanner  
+- 🌱 I’m learning advanced taint analysis and symbolic execution  
+- 💬 Ask me about React, TypeScript, Node.js, and Web Security  
+- 📫 How to reach me: https://www.linkedin.com/in/ayomide-akinrata/
+
+## 🚀 Tech Stack
+![React](https://sekani-portfolio.netlify.app/))
+![TypeScript](https://github.com/xclusive-3G/shop-like-it-user-interface-frontend.git)
+![Node.js](https://github.com/xclusive-3G/dashboard-shop-like-it-backend.git))
+
+## 📌 Projects
+- 🛡️ Symbolic Execution-Augmented JS Vulnerability Detector
+- 🛒 SekaniStore - Modern Home Decor eCommerce Website
 -->
