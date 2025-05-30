@@ -7,9 +7,10 @@ I’m a Frontend Developer & Cybersecurity Enthusiast
 - 📫 How to reach me: https://www.linkedin.com/in/ayomide-akinrata
 
 ## 🚀 Tech Stack
-![React](https://sekani-portfolio.netlify.app/))
+![React](https://sekani-portfolio.netlify.app/)
 ![TypeScript](https://github.com/xclusive-3G/shop-like-it-user-interface-frontend.git)
-![Node.js](https://github.com/xclusive-3G/dashboard-shop-like-it-backend.git))
+![Node.js](https://github.com/xclusive-3G/dashboard-shop-like-it-backend.git)
+![Python](https://github.com/xclusive-3G/ivy.git)
 
 ## 📌 Projects
 - 🛡️ Symbolic Execution-Augmented JS Vulnerability Detector
