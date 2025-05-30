@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**xclusive-3G/xclusive-3G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 👋 Hi, I’m Ayomide.
 
 I’m a Frontend Developer & Cybersecurity Enthusiast  
@@ -18,5 +13,4 @@ I’m a Frontend Developer & Cybersecurity Enthusiast
 
 ## 📌 Projects
 - 🛡️ Symbolic Execution-Augmented JS Vulnerability Detector
-- 🛒 SekaniStore - Modern Home Decor eCommerce Website
--->
+- 🛒 SekaniStore - Shop Like It eCommerce Website
